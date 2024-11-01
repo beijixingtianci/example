@@ -34,3 +34,7 @@ class Test2{
         System.out.println(person.getName());
     }
 }
+
+class test3{
+     System.out.println("cnmd");
+}
