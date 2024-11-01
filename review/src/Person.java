@@ -25,6 +25,8 @@ public class Person {
 
 }
 
+没好果子
+
 class Test2{
     public static void main(String[] args) {
         Person person = new Person();
